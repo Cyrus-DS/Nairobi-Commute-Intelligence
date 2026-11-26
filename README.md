@@ -48,11 +48,30 @@ Sensitivity analysis confirmed that the rankings remained unchanged across three
 
 ## Power BI Dashboard
 
-An interactive three-page dashboard was developed:
+I developed an interactive three-page Power BI dashboard
+to communicate the analytical findings and support
+residential location decision-making.
 
-1. **Executive Summary** — Overall commuting performance.
-2. **Morning Commute Analysis** — Traffic patterns and reliability.
-3. **Decision Analysis** — Weighted rankings and sensitivity testing.
+### 1. Executive Summary
+
+![Executive Summary Dashboard](images/Executive_Summary.png)
+
+Provides an overview of commuting performance, key
+metrics and weighted residential location rankings.
+
+### 2. Morning Commute Analysis
+
+![Morning Commute Analysis](images/Morning_Commute_Analysis.png)
+
+Explores journey-time patterns, commuting reliability,
+traffic adjustments and journey distance.
+
+### 3. Decision Analysis
+
+![Decision Analysis Dashboard](images/Decision_Analysis.png)
+
+Presents the weighted decision model, normalised
+performance scores and sensitivity analysis.
 
 ## Technical Skills Demonstrated
 
