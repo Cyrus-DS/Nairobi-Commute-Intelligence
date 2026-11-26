@@ -68,7 +68,7 @@ traffic adjustments and journey distance.
 
 ### 3. Decision Analysis
 
-![Decision Analysis Dashboard](Powerbi/Images/Figure_10_Decision_Analysis.png)
+![Decision Analysis Dashboard](Powerbi/Images/Figure_9_Morning_Commute_Analysis.png)
 
 Presents the weighted decision model, normalised
 performance scores and sensitivity analysis.
