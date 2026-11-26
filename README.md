@@ -54,7 +54,7 @@ residential location decision-making.
 
 ### 1. Executive Summary
 
-![Executive Summary Dashboard](Powerbi/Images/Executive_Summary.png)
+![Executive Summary Dashboard](Powerbi/Images/Figure_10_Decision_Analysis.png)
 
 Provides an overview of commuting performance, key
 metrics and weighted residential location rankings.
