@@ -58,11 +58,12 @@ An interactive three-page dashboard was developed:
 
 Python data analysis | API integration | Data cleaning | Statistical analysis | Decision modelling | Sensitivity analysis | Power BI | DAX | Data visualisation
 
-## Project Report
+## Full Project Report
 
-The full methodology, analytical findings, visualisations and recommendations are documented in:
+For a detailed explanation of the methodology, statistical analysis,
+decision model, sensitivity testing and recommendations:
 
-`reports/Nairobi_Commute_Intelligence_Project_Report.pdf`
+📄 [Read the Full Project Report](reports/Nairobi_Commute_Intelligence_Project_Report.pdf)
 
 ## Limitations
 
