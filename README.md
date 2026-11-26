@@ -54,21 +54,21 @@ residential location decision-making.
 
 ### 1. Executive Summary
 
-![Executive Summary Dashboard](images/Executive_Summary.png)
+![Executive Summary Dashboard](Powerbi/Images/Executive_Summary.png)
 
 Provides an overview of commuting performance, key
 metrics and weighted residential location rankings.
 
 ### 2. Morning Commute Analysis
 
-![Morning Commute Analysis](images/Morning_Commute_Analysis.png)
+![Morning Commute Analysis](Powerbi/Images/Morning_Commute_Analysis.png)
 
 Explores journey-time patterns, commuting reliability,
 traffic adjustments and journey distance.
 
 ### 3. Decision Analysis
 
-![Decision Analysis Dashboard](images/Decision_Analysis.png)
+![Decision Analysis Dashboard](Powerbi/Images/Decision_Analysis.png)
 
 Presents the weighted decision model, normalised
 performance scores and sensitivity analysis.
