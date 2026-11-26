@@ -61,7 +61,7 @@ metrics and weighted residential location rankings.
 
 ### 2. Morning Commute Analysis
 
-![Morning Commute Analysis](Powerbi/Images/Morning_Commute_Analysis.png)
+![Morning Commute Analysis](Powerbi/Images/Figure_9_Morning_Commute_Analysis.png)
 
 Explores journey-time patterns, commuting reliability,
 traffic adjustments and journey distance.
